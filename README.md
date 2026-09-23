@@ -2,13 +2,13 @@
 
 Software engineer · Jakarta, Indonesia
 
-I build mobile and web products end to end, from the Figma file to the backend, the infrastructure, and the app in the store.
+I've been writing code by hand since 2018. I build mobile and web products end to end, from the Figma file to the backend, the infrastructure, and the app in the store.
 
-Most of that work is done by fleets of AI coding agents running in parallel. I orchestrate them, benchmark the models behind them, and build the tooling that holds the whole system together.
+Most of that work is now done by fleets of AI coding agents running in parallel. I orchestrate them, benchmark the models behind them, and build the tooling that holds the whole system together.
 
 ## How I work
 
-After more than 4,000 agent sessions, I treat AI coding agents as a team to orchestrate. They are not a single copilot I prompt one request at a time.
+The manual years came first — the agent fleets are built on top of them, not instead of them. After more than 4,000 agent sessions, I treat AI coding agents as a team to orchestrate. They are not a single copilot I prompt one request at a time.
 
 - **Parallel fleets.** Many agents run at once, each in its own git worktree, so independent pieces of work move forward at the same time without colliding.
 - **Multiple harnesses.** I use Claude Code, Codex, opencode and others side by side, and I pick the harness for each task instead of committing to one.
