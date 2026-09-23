@@ -1,9 +1,18 @@
 # Gian Rhamadhan
 
-Software engineer based in Jakarta, building mobile and web products end to end — apps, backends, and the infrastructure underneath them.
+Software engineer based in Jakarta, Indonesia. I build mobile and web products end to end. That covers the database and API, the apps people use, and the infrastructure and pipelines that ship them.
 
-- **Mobile:** React Native / Expo — apps shipped to the App Store and Google Play, including OTA update pipelines
-- **Web:** React / Next.js — public sites and internal admin panels
-- **Backend:** PHP (Laravel), Node.js, Go — REST APIs, queue workers, scheduled jobs
-- **Infra:** GCP, MySQL, Redis, Docker — CI/CD on GitHub Actions and GitLab CI
-- **Lately:** AI-assisted dev workflows — agent orchestration, MCP tooling, model routing
+## What I work on
+
+- **Mobile:** React Native and Expo. I've shipped apps to the App Store and Google Play, and I build over-the-air update pipelines so updates can go out between store releases.
+- **Web:** React and Next.js.
+- **Backend:** PHP (Laravel), Node.js and Go, with MySQL and Redis.
+- **Infrastructure:** Google Cloud Platform and Docker, with CI/CD on GitHub Actions and GitLab CI.
+
+## Currently
+
+Building AI-assisted development workflows: agent orchestration, MCP tooling and model routing.
+
+## Contact
+
+Twitter / X: [@wdyhere](https://x.com/wdyhere)
